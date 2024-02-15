@@ -9,3 +9,4 @@ console.log(saludos)
 const sayGoodbye = name => `Goodbye, ${name}`
 
 names.forEach(console.log)
+console.log(names.map(sayGoodbye));
