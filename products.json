@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "title": "Product 1",
+    "description": "Description of product 1",
+    "price": 15.99,
+    "thumbnail": "path/to/thumbnail1.jpg",
+    "code": "ABC123",
+    "stock": 100
+  },
+  {
+    "id": 3,
+    "title": "Product 2",
+    "description": "Description of product 2",
+    "price": 20.49,
+    "thumbnail": "path/to/thumbnail2.jpg",
+    "code": "DEF456",
+    "stock": 50
+  },
+  {
+    "id": 4,
+    "title": "Product 1",
+    "description": "Description of product 1",
+    "price": 10.99,
+    "thumbnail": "path/to/thumbnail1.jpg",
+    "code": "ABC123",
+    "stock": 100
+  },
+  {
+    "id": 5,
+    "title": "Product 2",
+    "description": "Description of product 2",
+    "price": 20.49,
+    "thumbnail": "path/to/thumbnail2.jpg",
+    "code": "DEF456",
+    "stock": 50
+  }
+]
